@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Ivan Ortega</h1>
 <h3 align="center">Estudiante de programación de aplicaciones multiplataforma.</h3>
-src="https://github.com/ivatronix0/mamahuevasocosmico-modified.png"
-src="https://github.com/ivatronix0/fotor_2023-3-6_20_5_45.png"
-src="https://github.com/ivatronix0/fotor_2023-3-6_20_15_11.png"
-src="https://github.com/ivatronix0/fotor_2023-3-6_20_2_7.png"
+<img src="https://github.com/ivatronix0/mamahuevasocosmico-modified.png"/>
+<img src="https://github.com/ivatronix0/fotor_2023-3-6_20_5_45.png"/>
+<img src="https://github.com/ivatronix0/fotor_2023-3-6_20_15_11.png"/>
+<img src="https://github.com/ivatronix0/fotor_2023-3-6_20_2_7.png"/>
 
 <p align="left">
 </p>
