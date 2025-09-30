@@ -1,5 +1,7 @@
 # 👋 Hola, soy Ivan Ortega
-### 🎓 Estudiante de programación de aplicaciones multiplataforma
+
+💻 Desarrollador **Full Stack Junior** con ganas de aprender y aportar en proyectos reales.  
+Me apasiona construir aplicaciones web que resuelvan problemas y me gusta enfrentarme a nuevos retos tecnológicos. 🚀  
 
 
 
