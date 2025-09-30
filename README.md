@@ -1,13 +1,42 @@
 # 👋 Hola, soy Ivan Ortega
 ### 🎓 Estudiante de programación de aplicaciones multiplataforma
 
-![Perfil](https://github.com/ivatronix0/ivatronix0/blob/main/mamahuevasocosmico-modified%20(1).png)
+
 
 ---
+##📱 Proyectos destacados
+
+# 🗺️ Pueblos de España
+
+Aplicación web desarrollada en **Laravel** que muestra todos los pueblos de España, con buscador y filtros dinámicos.  
+
+## ✨ Características
+- 🔎 Búsqueda rápida de pueblos por nombre  
+- 🏘️ Filtros por provincia y comunidad autónoma  
+- 🌍 Datos cargados desde un **archivo JSON**  
+- 🗄️ Uso de **migrations, seeders y factories** adaptados para inicializar datos desde JSON  
+- 📱 Interfaz responsiva gracias a **Bootstrap**  
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- **Backend:** PHP, Laravel  
+- **Frontend:** Bootstrap, JavaScript  
+- **Datos:** JSON  
+- **Otros:** Git, APIs REST  
+
+---
+
+## 🚀 Instalación y uso
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/ivatronix0/pueblos-espana.git
 
 ## 📱 Proyectos publicados
 
 ### 🏋️‍♂️ GymChat
+![Perfil](https://github.com/ivatronix0/ivatronix0/blob/main/mamahuevasocosmico-modified%20(1).png)
 [👉 Ver en Google Play](https://play.google.com/store/apps/details?id=org.insbaixcamp.gymchat&hl=es_419&gl=US)  
 ![GymChat](https://github.com/ivatronix0/ivatronix0/blob/main/fotor_2023-3-6_20_5_45.png)
 
