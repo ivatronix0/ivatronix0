@@ -39,12 +39,13 @@ Aplicación web desarrollada en **Laravel** que muestra todos los pueblos de Esp
 ### 🏋️‍♂️ GymChat
 [👉 Ver en Google Play](https://play.google.com/store/apps/details?id=org.insbaixcamp.gymchat&hl=es_419&gl=US)  
 ![Perfil](https://github.com/ivatronix0/ivatronix0/blob/main/mamahuevasocosmico-modified%20(1).png)
-![GymChat](https://github.com/ivatronix0/ivatronix0/blob/main/fotor_2023-3-6_20_5_45.png)
+
 
 ---
 
 ### ✅ ToDoList
 [👉 Ver en Google Play](https://play.google.com/store/apps/details?id=com.insbaixcamp.mytodoapplication&hl=es_419&gl=US)  
+![GymChat](https://github.com/ivatronix0/ivatronix0/blob/main/fotor_2023-3-6_20_5_45.png)
 ![ToDoList](https://github.com/ivatronix0/ivatronix0/blob/main/fotor_2023-3-6_20_15_11.png)
 
 ---
