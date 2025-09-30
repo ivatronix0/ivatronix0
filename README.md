@@ -34,8 +34,7 @@ Aplicación web desarrollada en **Laravel** que muestra todos los pueblos de Esp
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/ivatronix0/pueblos-espana.git
-
-## 📱 Proyectos publicados
+---
 
 ### 🏋️‍♂️ GymChat
 ![Perfil](https://github.com/ivatronix0/ivatronix0/blob/main/mamahuevasocosmico-modified%20(1).png)
